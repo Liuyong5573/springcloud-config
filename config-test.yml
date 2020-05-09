@@ -1,2 +1,2 @@
-config-info:
-  cofig-test
+config:
+  info: cofig-test, version 1
